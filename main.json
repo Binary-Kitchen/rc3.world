@@ -45,6 +45,12 @@
          "id":4,
          "name":"exitUrl",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"main.json#start"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
