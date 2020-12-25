@@ -87,6 +87,11 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"labor.json#start"
+                }, 
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,

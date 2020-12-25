@@ -50,7 +50,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"main.json#exitToLabor"
                 }],
          "type":"tilelayer",
          "visible":true,
