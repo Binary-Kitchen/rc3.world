@@ -110,7 +110,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"{<lobby>\/hardware-making.json#start_binary-kitchen}"
                 }],
          "type":"tilelayer",
          "visible":true,
