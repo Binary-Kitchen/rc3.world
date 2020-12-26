@@ -184,19 +184,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":3,
-         "firstgid":1859,
-         "image":"assets\/furniture\/23_tisch_weiss_1.png",
-         "imageheight":64,
-         "imagewidth":96,
-         "margin":0,
-         "name":"23_tisch_weiss_1",
-         "spacing":0,
-         "tilecount":6,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
