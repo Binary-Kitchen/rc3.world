@@ -74,7 +74,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/channel\/UCZ485RRQGtMkyO6OHnPEFTA\/"
+                 "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLdZLNKzxZOwHmrnTlJXxxyUDKGEzPTrHj"
                 }],
          "type":"tilelayer",
          "visible":true,
