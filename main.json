@@ -164,7 +164,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"labor.json#start"
+                 "value":"labor.json#startFromWerkstatt"
                 }],
          "type":"tilelayer",
          "visible":true,
