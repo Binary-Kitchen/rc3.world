@@ -599,16 +599,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":0,
-         "firstgid":2033,
-         "margin":0,
-         "name":"zelle",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":1,
-         "tilewidth":1
-        }, 
-        {
          "columns":1,
          "firstgid":2033,
          "image":"assets\/zelle-dashboard.png",
