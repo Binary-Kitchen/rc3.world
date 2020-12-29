@@ -328,7 +328,7 @@
         {
          "columns":30,
          "firstgid":3045,
-         "image":"C:\/Users\/Danie\/OneDrive\/Desktop\/RC3 Kitchen World\/rc3.world-master\/assets\/hyptosis_til-art-batch-2.png",
+         "image":"assets\/hyptosis_til-art-batch-2.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -341,7 +341,7 @@
         {
          "columns":8,
          "firstgid":3945,
-         "image":"C:\/Users\/Danie\/OneDrive\/Desktop\/RC3 Kitchen World\/rc3.world-master\/assets\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/floortileset.png",
+         "image":"assets\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -354,7 +354,7 @@
         {
          "columns":2,
          "firstgid":4009,
-         "image":"C:\/Users\/Danie\/OneDrive\/Desktop\/RC3 Kitchen World\/rc3.world-master\/assets\/tiles.rc3.world\/community\/cert\/imgs\/storage\/03_shelve.png",
+         "image":"assets\/tiles.rc3.world\/community\/cert\/imgs\/storage\/03_shelve.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
@@ -367,7 +367,7 @@
         {
          "columns":30,
          "firstgid":4015,
-         "image":"C:\/Users\/Danie\/OneDrive\/Desktop\/RC3 Kitchen World\/rc3.world-master\/assets\/hyptosis_tile-art-batch-3.png",
+         "image":"assets\/hyptosis_tile-art-batch-3.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -380,7 +380,7 @@
         {
          "columns":2,
          "firstgid":4915,
-         "image":"C:\/Users\/Danie\/OneDrive\/Desktop\/RC3 Kitchen World\/rc3.world-master\/assets\/tiles.rc3.world\/community\/cert\/imgs\/storage\/03_shelve.png",
+         "image":"assets\/tiles.rc3.world\/community\/cert\/imgs\/storage\/03_shelve.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
