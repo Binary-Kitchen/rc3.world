@@ -50,7 +50,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"main.json#startfromSchuppen"
+                 "value":"main.json#startFromSchuppen"
                 }],
          "type":"tilelayer",
          "visible":true,
