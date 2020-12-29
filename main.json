@@ -35,7 +35,7 @@
          "name":"exitToSchuppen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -47,7 +47,7 @@
          "name":"startFromSchuppen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -65,7 +65,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/videoseries?list=PLdZLNKzxZOwHmrnTlJXxxyUDKGEzPTrHj"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -83,7 +83,7 @@
                  "value":"https:\/\/zelle.binary-kitchen.de\/d\/blHUBqIGz\/telefonzelle-intern?orgId=1&refresh=5m"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -424,7 +424,7 @@
          "name":"frontWalls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -436,7 +436,7 @@
          "name":"dekoForeground2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
