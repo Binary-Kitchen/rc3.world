@@ -606,7 +606,7 @@
          "columns":4,
          "firstgid":2133,
          "image":"assets\/bk-tiles.png",
-         "imageheight":118,
+         "imageheight":128,
          "imagewidth":128,
          "margin":0,
          "name":"bk_tiles",
