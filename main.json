@@ -128,7 +128,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.binary-kitchen.de\/wiki\/projekte:mpcnc:start?s[]=mpcnc"
+                 "value":"https:\/\/www.binary-kitchen.de\/wiki\/projekte:mpcnc:start"
                 }],
          "type":"tilelayer",
          "visible":true,
