@@ -86,7 +86,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.binary-kitchen.de\/"
+                 "value":"https:\/\/www.binary-kitchen.de\/wiki\/veranstaltungen:kuechen-radio"
                 }],
          "type":"tilelayer",
          "visible":true,
