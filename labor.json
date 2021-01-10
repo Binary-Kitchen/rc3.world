@@ -872,8 +872,27 @@
          "tilewidth":32
         }, 
         {
+         "columns":0,
          "firstgid":8223,
-         "source":"assets\/bieromat.tsx"
+         "grid":
+            {
+             "height":1,
+             "orientation":"orthogonal",
+             "width":1
+            },
+         "margin":0,
+         "name":"bieromat",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":96,
+         "tiles":[
+                {
+                 "id":0,
+                 "image":"assets\/bierautomat.png",
+                 "imageheight":96,
+                 "imagewidth":32
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
