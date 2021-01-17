@@ -104,7 +104,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"labor.json#startFromMemberBoxVenti"
+                 "value":"memberbox-venti-2.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
