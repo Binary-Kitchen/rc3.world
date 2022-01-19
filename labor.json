@@ -131,7 +131,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"assets\/audio\/tetris.mp3"
                 }],
@@ -149,7 +154,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"assets\/audio\/cw-20wpm.mp3 "
                 }],
@@ -167,7 +177,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"assets\/audio\/klopi.mp3"
                 }],

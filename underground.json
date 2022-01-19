@@ -22,7 +22,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"assets\/audio\/Six_Umbrellas_-_01_-_Manchester.mp3"
                 }],
