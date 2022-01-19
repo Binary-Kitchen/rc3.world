@@ -410,6 +410,21 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"\/_\/global\/c0c0bird.github.io\/chaos-world\/main.json#start_alpen"
+                }, 
+                {
+                 "name":"mapLink",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/Binary-Kitchen\/rc3.world"
+                }, 
+                {
+                 "name":"mapName",
+                 "type":"string",
+                 "value":"Binary Kitchen - Hackspace Regensburg"
+                }, 
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"MPCNC Tile: From Z-Labor"
                 }],
          "type":"tilelayer",
          "visible":true,
