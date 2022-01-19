@@ -637,6 +637,11 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"MPCNC Tile: From Z-Labor"
+        }, 
+        {
          "name":"mapLink",
          "type":"string",
          "value":"https:\/\/github.com\/Binary-Kitchen\/rc3.world"
@@ -645,11 +650,6 @@
          "name":"mapName",
          "type":"string",
          "value":"Binary Kitchen - Hackspace Regensburg"
-        }, 
-        {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"MPCNC Tile: From Z-Labor"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
