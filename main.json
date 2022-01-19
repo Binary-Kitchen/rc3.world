@@ -410,21 +410,6 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"\/_\/global\/c0c0bird.github.io\/chaos-world\/main.json#start_alpen"
-                }, 
-                {
-                 "name":"mapLink",
-                 "type":"string",
-                 "value":"https:\/\/github.com\/Binary-Kitchen\/rc3.world"
-                }, 
-                {
-                 "name":"mapName",
-                 "type":"string",
-                 "value":"Binary Kitchen - Hackspace Regensburg"
-                }, 
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"MPCNC Tile: From Z-Labor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -650,6 +635,22 @@
  "nextlayerid":45,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/Binary-Kitchen\/rc3.world"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Binary Kitchen - Hackspace Regensburg"
+        }, 
+        {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"MPCNC Tile: From Z-Labor"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
